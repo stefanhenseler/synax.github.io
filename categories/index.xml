@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on synax.io</title>
+    <link>https://www.synax.io/categories/</link>
+    <description>Recent content in Categories on synax.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>stefan.henseler@synax.ch (Stefan Henseler)</managingEditor>
+    <webMaster>stefan.henseler@synax.ch (Stefan Henseler)</webMaster>
+    
+	<atom:link href="https://www.synax.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on synax.io</title>
+    <link>https://www.synax.io/page/</link>
+    <description>Recent content in Pages on synax.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>stefan.henseler@synax.ch (Stefan Henseler)</managingEditor>
+    <webMaster>stefan.henseler@synax.ch (Stefan Henseler)</webMaster>
+    
+	<atom:link href="https://www.synax.io/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About me</title>
+      <link>https://www.synax.io/page/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>stefan.henseler@synax.ch (Stefan Henseler)</author>
+      <guid>https://www.synax.io/page/about/</guid>
+      <description>My name is Stefan Henseler. I’m a self-motivated Solution Architect with more than ten years of experience in systems engineering, specializing in distributed systems with a keen interest in artificial intelligence.</description>
+    </item>
+    
+  </channel>
+</rss>
